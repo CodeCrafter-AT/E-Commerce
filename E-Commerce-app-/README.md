@@ -1,0 +1,2 @@
+# E-Commerce app 
+ A full-stack Ecommerce web application featuring a responsive and modern UI, built using React.js (frontend) and Node.js with Express (backend). The project includes secure payment integration with Braintree, deployment setup via Render and Vercel, and dynamic product listing.  Key Features:  Fully responsive UI/UX  Braintree Payment Gateway integration  MongoDB Atlas cloud database support  Full deployment guide (Render + Vercel)  Clean developer documentation  Tools Used:  React.js, Tailwind CSS, Node.js, Express, MongoDB Atlas  GitHub, Render, Vercel
